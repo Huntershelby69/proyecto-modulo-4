@@ -1,0 +1,61 @@
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Nombre de la tarea:
+Tipo de tarea:
+1. Normal
+2. Urgente
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Nombre de la tarea:
+Tipo de tarea:
+1. Normal
+2. Urgente
+Días límite:
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+=== TAREAS ACTIVAS ===
+[NORMAL] ID: 1 | Nombre: Comprar leche | Completado: false
+[URGENTE] ID: 2 | Nombre: Entregar informe final | Completado: false | Dias limite: 3
+=== TAREAS COMPLETADAS ===
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+ID de la tarea:
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+ID de la tarea:
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+=== TAREAS ACTIVAS ===
+=== TAREAS COMPLETADAS ===
+[NORMAL] ID: 1 | Nombre: Comprar leche | Completado: true
+
+1. Agregar tarea
+2. Listar tareas
+3. Marcar tarea como completada
+4. Eliminar tarea
+5. Salir
+Programa finalizado.
